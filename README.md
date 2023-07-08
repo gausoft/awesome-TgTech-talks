@@ -7,4 +7,6 @@ A collection of Togolese Dev and Tech Talks
 
 ### Dev Talks
 
+* **[OSCA Lomé - Comment débuter dans l'Open Source?](https://t.me/dgausoft/1011)**
+
 ### Tech Talks
